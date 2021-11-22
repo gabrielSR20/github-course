@@ -8,4 +8,4 @@ Saiba mais em [willianjusten.com.br](https://willianjusten.com.br)
 
 Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido =)
 
-[![YouTube](https://www.youtube.com/watch?v=5Rq0LjdxTY8)]
+[YouTube](https://www.youtube.com/watch?v=5Rq0LjdxTY8)
